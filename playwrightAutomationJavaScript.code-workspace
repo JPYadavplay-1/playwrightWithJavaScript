@@ -1,6 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "jslearing",
+			"path": "../jslearing"
+		},
+		{
+			"name": "playwrightAutomationJavaScript",
 			"path": "."
 		}
 	]
