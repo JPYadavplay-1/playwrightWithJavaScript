@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30919","Validate FB login page with incorrect credentials","chromium","Tue Dec 09 14:30:32 IST 2025","broken","Tue Dec 09 14:31:03 IST 2025","","login.spec.js","",""
+"","5775","vaidate test","chromium","Tue Dec 09 14:30:40 IST 2025","passed","Tue Dec 09 14:30:46 IST 2025","","test.spec.js","",""
+"","5287","get started link","chromium","Tue Dec 09 14:30:34 IST 2025","passed","Tue Dec 09 14:30:39 IST 2025","","example.spec.js","",""
+"","24999","validate amazon login page","chromium","Tue Dec 09 14:30:03 IST 2025","failed","Tue Dec 09 14:30:28 IST 2025","","amazonLog.spec.js","",""
+"","20791","validate search and suggestion click","chromium","Tue Dec 09 14:30:03 IST 2025","failed","Tue Dec 09 14:30:23 IST 2025","","amazonsearch.spec.js","",""
+"","3174","has title","chromium","Tue Dec 09 14:30:28 IST 2025","passed","Tue Dec 09 14:30:31 IST 2025","","example.spec.js","",""
