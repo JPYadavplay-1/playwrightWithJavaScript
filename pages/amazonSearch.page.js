@@ -13,6 +13,9 @@ class AmazonSearchAndAddToKart extends AmazonLoginPage {
 
     }
 
+    
+
+
     // async clickAndSearchOnSearchBox(search) {
     //     // 1. Click search box
     //     await this.searchBox.click();
