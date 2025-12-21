@@ -1,17 +1,15 @@
-require('dotenv').config();   // correct
-
 class BasePage {
-    constructor(page) {        // page = browser tab from Playwright
-        this.page = page;      // store tab inside class
-    }
+  constructor(page) {
+    this.page = page;
+  }
 
-    async goto(url) {
-        await this.page.goto(url);   // we will pass process.env.FB_URL from LoginPage or test
-    }
+  async goto(path = '/') {
+    await this.page.goto(path);
+  }
 
-    async title() {
-        return this.page.title();
-    }
+  async title() {
+    return this.page.title();
+  }
 }
 
-module.exports = { BasePage };  // correct export
+module.exports = { BasePage };

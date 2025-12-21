@@ -1,7 +1,6 @@
 {
   "name": "playwrightautomationjavascript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
@@ -17,5 +16,9 @@
     "fsevents": "^2.3.2",
     "playwright-core": "^1.57.0"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
 }

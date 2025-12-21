@@ -1,5 +1,5 @@
 require('dotenv').config();
-const { BasePage } = require('../pages/base.page');
+const { BasePage } = require('../base.page');
 
 class IncorrectUserCred extends BasePage {
     constructor(page) {

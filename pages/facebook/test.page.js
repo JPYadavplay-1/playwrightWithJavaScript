@@ -1,5 +1,5 @@
 require('dotenv').config();
-const{ BasePage}= require('./base.page')
+const{ BasePage}= require('../base.page')
 
 class Test extends BasePage{
     constructor(page){
